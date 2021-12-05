@@ -5,8 +5,8 @@ specifiers:
   '@remix-run/react': ^1.0.6
   '@remix-run/serve': ^1.0.6
   '@remix-run/vercel': ^1.0.6
-  '@types/react': ^17.0.24
-  '@types/react-dom': ^17.0.9
+  '@types/react': ^17.0.37
+  '@types/react-dom': ^17.0.11
   autoprefixer: ^10.4.0
   concurrently: ^6.4.0
   cross-env: ^7.0.3
@@ -16,7 +16,7 @@ specifiers:
   remix: ^1.0.6
   rimraf: ^3.0.2
   tailwindcss: ^2.2.19
-  typescript: ^4.1.2
+  typescript: ^4.5.2
 
 dependencies:
   '@remix-run/react': 1.0.6_react-dom@17.0.2+react@17.0.2
